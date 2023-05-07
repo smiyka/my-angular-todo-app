@@ -1,4 +1,4 @@
-[DEMO LINK](https://smiyka.github.io/Eco-cosmetics-landing/)<br>
+[DEMO LINK](https://smiyka.github.io/my-angular-todo-app/)<br>
 
 # AngularTodoApp
 
